@@ -22,7 +22,7 @@ class ViewController: NSViewController {
         }
     }
     /**
-        Conflict1
+        Conflict1 message
      */
     func addNumbers (number1: Int, number2: Int) -> Int {
         return number1 + number2
